@@ -13,10 +13,10 @@ Sistema web de lista de tarefas. Dá pra adicionar e remover tarefas.
 
 ## Como rodar
 
-```bash
+bash
 npm install
 npm run dev
-```
+
 
 Acessa http://localhost:5173 no navegador.
 
