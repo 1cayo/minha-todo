@@ -1,5 +1,3 @@
-# Minha Todo App
-
 Sistema web de lista de tarefas. Dá pra adicionar e remover tarefas.
 
 ## O que usei
