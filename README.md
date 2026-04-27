@@ -19,7 +19,3 @@ npm run dev
 
 
 Acessa http://localhost:5173 no navegador.
-
-## Link
-
-https://SEU-LINK.vercel.app
